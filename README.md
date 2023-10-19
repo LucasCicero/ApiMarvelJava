@@ -18,4 +18,6 @@ Abra o terminal e digite o seguinte comando para baixar o repositório:
 
 Depois no arquivo `` CvApplication.java ``, clique no botão de <strong>Run</strong> para iniciar o projeto.
 
-Abra alguma plataforma por exemplo Postman, para realizar a requisição de pesquisa
+Abra alguma plataforma por exemplo Postman, para realizar a requisição de pesquisa, utilizando o id especifico do herói:
+
+![PostmanResponse](https://github.com/LucasCicero/ApiMarvelJava/assets/76116734/9fddbf01-d164-4471-8b07-6e41b2e21ce2)
